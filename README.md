@@ -7,7 +7,8 @@ This is save you time and even give you best response in scanning ip which is UP
 
 ### Global Access
 
-`sudo cp ipsweep.sh /bin/ipsweep`
+`mv ipsweep.sh ipsweep
+sudo cp ipsweep.sh /bin/`
 
 
 ### Example
